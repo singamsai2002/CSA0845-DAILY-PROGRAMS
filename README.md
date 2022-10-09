@@ -45,3 +45,15 @@ Day 4
 8.Roman to integer
 9.Year divided into four seasons
 10.scramble string
+
+Day5
+1.maximal substring consists of non space characters
+2.composite numbers between a and b
+3.Employee bonus salary on new year
+4.Lcm and Gcd of n numbers
+5.Frequency of each element in the list
+6.calculate pow(x,n),add,sub,mul,div
+7.Two integers for both the numbers
+8.count all the prime and composite numbers
+9.person is eligible to vote or not
+10.print the pattern(%,%,%)
